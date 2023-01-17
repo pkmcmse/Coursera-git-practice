@@ -1,0 +1,38 @@
+CD- CHANGE OF DIRECTORY. 
+EX. Cd /Users/Chrispen/Desktop/dddd/TEST
+
+Ls lists all files in a folder
+Ls -l lists the files in a folder in order and shows permission and ownership
+
+Ls -a lists all files in a folder including hidden files
+ Pwd shows the full path of the current directory
+
+Cp -  copies files
+
+Mv moves files
+
+Command                 Used for
+
+cd                      Change Directory
+
+ls                      List command used for showing the content of a directory.
+Ls -l                   shows more details on files listed
+
+rm                      Remove command used for removing a file or a directory
+
+mv                      Used to move files or folders to another location
+
+touch                   Allows creating of a new empty file or to upate a timestamp on a file
+
+cp                      Used to make a copy of a file or foldler
+
+mkdir                   Make a new directory
+
+pwd                     Print work directory, shows the current location in the shell
+
+cat                     Allows reading or concatenation of a file
+
+less                    Displays the contents of a file one page at a time.
+
+grep                    Global regular expression, allows for searching contents of files or folders
+
